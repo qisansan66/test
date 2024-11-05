@@ -1,7 +1,6 @@
 # test
 
 #
-Oct
 
 ### Doc
 
