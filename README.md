@@ -1,10 +1,6 @@
 # test
 
 
-### Doc
-
-[Access Denied](https://verifier.nillion.com/verifier)
-
 ### Faucet
 
 [nil Testnet Faucet](https://faucet.testnet.nillion.com)
