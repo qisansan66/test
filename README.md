@@ -88,7 +88,7 @@ docker run -v ~/nillion/verifier:/var/tmp nillion/verifier:v1.0.1 initialise #�
 
 要在Nillion链上挑战秘密，Verifier账户需要NIL资金。您可以使用Nillion水龙头为Verifier账户充值：
 
-- https://faucet.testnet.nillion.com/
+- ttps://faucet.testnet.nillion.com/
 
 7. **运行Verifier**
 
@@ -97,9 +97,4 @@ docker run -v ~/nillion/verifier:/var/tmp nillion/verifier:v1.0.1 initialise #�
 
 
 #end
-
-
-
-
-
 
