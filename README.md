@@ -93,6 +93,5 @@ docker run -v ~/nillion/verifier:/var/tmp nillion/verifier:v1.0.1 initialise #�
 使用nohup（关闭终端后继续运行）命令启动Verifier：
 
 
-
 #end
 
