@@ -1,9 +1,9 @@
 # test
 
-### Faucet
+# Faucet
 [nil Testnet Faucet](https://faucet.testnet.nillion.com)
 
-### VPS安装
+# VPS安装
 
 在VPS上安装和运行Nillion的Verifier，您可以按照以下步骤操作：
 
