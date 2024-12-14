@@ -12,7 +12,6 @@
 您需要先确保Keplr钱包中有NIL代币。可以使用Nillion水龙头获取NIL。请按照以下链接访问Nillion水龙头以获得代币：
 
 - https://faucet.testnet.nillion.com/
-- 
 
 2. **安装Docker**
 
